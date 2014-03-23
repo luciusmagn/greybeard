@@ -1,30 +1,25 @@
-# Brogrammer
+# greybeard
 
-Brogrammer is a flat sexy theme. Pushups not included.
+![greybeard screenshot](https://raw.githubusercontent.com/xero/theme-greybeard/master/preview1.png)
+![greybeard screenshot](https://raw.githubusercontent.com/xero/theme-greybeard/master/preview2.png)
 
-![Brogrammer Screenshot](http://i.imgur.com/7EPa8Wm.png)
-![Brogrammer Screenshot](http://i.imgur.com/hXE6jYP.png)
+greybeard is a fork of [brogrammer](https://github.com/kenwheeler/brogrammer-theme/) a dark, flat, sexy theme. greybeard changes the main theme color from red to blue grey. reveals the scrollbars. features [gohuFont](http://font.gohu.org) throughout the ui. and is designed for the monokai theme, what enticed ~~most~~ all of us to use sublime text in the first place.
 
-## Install
+## install
 
-### Via Package Control
+1. [download the .zip](https://github.com/xero/theme-greybeard/archive/master.zip)
+2. unzip to `theme-greybeard` folder in the `Packages` directory, which you can find using the menu item `Preferences -> Browse Packages...` in sublime text.
 
-Theme is listed as `Theme - Brogrammer` in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+## setup
 
-### Manual
+activate the ui theme, set the monokai color scheme, and gohu font by modifying your user preferences file, which you can find using the menu item `Preferences -> Settings - User` in sublime text.
 
-1. [Download the .zip](https://github.com/kenwheeler/brogrammer-theme/archive/master.zip)
-2. Unzip and rename the folder to `Theme - Brogrammer`
-3. Copy the folder into `Packages` directory, which you can find using the menu item `Preferences -> Browse Packages...` in Sublime Text
-
-## Setup
-
-Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Preferences -> Settings - User` in Sublime Text or by clicking `cmd + ,` on a Mac.
-
-### Example settings
+### user settings
 ```
 {
-  "theme": "Brogrammer.sublime-theme",
-  "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
+	"theme": "greybeard.sublime-theme", 
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "gohuFont",
+	"font_size": 11
 }
 ```
