@@ -3,7 +3,7 @@
 ![greybeard sublime screenshot](https://raw.githubusercontent.com/xero/greybeard-sublime/master/preview1.png)
 ![greybeard sublime screenshot](https://raw.githubusercontent.com/xero/greybeard-sublime/master/preview2.png)
 
-greybeard is a fork of [brogrammer](https://github.com/kenwheeler/brogrammer-theme/) a dark, flat, sexy theme. greybeard changes the main theme color from red to blue grey. reveals the scrollbars. features [gohuFont](http://font.gohu.org) throughout the ui. and is designed for the monokai theme, what enticed ~~most~~ all of us to use sublime text in the first place.
+greybeard is a fork of [brogrammer](https://github.com/kenwheeler/brogrammer-theme/) a dark, flat, sexy theme. greybeard changes the main theme color from red to blue grey. reveals the scrollbars. features [ProFontWindowsCzech](http://font.gohu.org) throughout the ui. and is designed for the monokai theme, what enticed ~~most~~ all of us to use sublime text in the first place.
 
 ## install
 
@@ -19,7 +19,7 @@ activate the ui theme, set the monokai color scheme, and gohu font by modifying 
 {
  "theme": "greybeard.sublime-theme", 
  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
- "font_face": "gohuFont",
+ "font_face": "ProFontWindowsCzech",
  "font_size": 11
 }
 ```
