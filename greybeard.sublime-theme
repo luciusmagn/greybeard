@@ -790,10 +790,11 @@
     {
         "class": "text_line_control",
         "layer0.texture": "",
-        // "layer0.tint": [118, 255, 205],
-        "layer0.tint": [230, 230, 230],
+        "layer0.tint": [35, 35, 35],
         "layer0.opacity": 1,
-        "content_margin": [5,7,0,5]
+        "content_margin": [1,1,1,1],
+        "font.face": "ProFontWindowsCzech",
+        "font.size": 11
     },
 
 //
