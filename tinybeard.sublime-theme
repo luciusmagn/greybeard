@@ -559,7 +559,7 @@
         "class": "sidebar_label",
         "font.face": "ProFontWindowsCzech",
         "font.size":12,
-        "padding_": [-10, -10],
+        "padding_": [0,0],
         "color": [170,170,170],
         "shadow_color": [0,0,0],
         "shadow_offset": [1,1]
@@ -792,7 +792,7 @@
         "layer0.texture": "",
         "layer0.tint": [35, 35, 35],
         "layer0.opacity": 1,
-        "content_margin": [1,1,1,1],
+        "content_margin": [0,0,0,0],
         "font.face": "ProFontWindowsCzech",
         "font.size": 11
     },
